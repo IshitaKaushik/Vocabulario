@@ -1,5 +1,5 @@
 # Vocabulario
-*Vocabulario* is an Android application to learn basic Spanish Vocabulary along with their pronounciation.This application is implemented using ListView, ViewPager, AudioFocus, TouchFeedback, Fragments, TabLayout and more.
+**Vocabulario** is an Android application to learn basic Spanish Vocabulary along with their pronounciation.This application is implemented using ListView, ViewPager, AudioFocus, TouchFeedback, Fragments, TabLayout and more.
 
 
 
